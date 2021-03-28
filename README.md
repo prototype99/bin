@@ -1,1 +1,1 @@
-bin
+literally just my bin folder, feel free to take any binaries you need, they might not work though, I have an unusual setup
